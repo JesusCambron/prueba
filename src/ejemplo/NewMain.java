@@ -20,6 +20,8 @@ public class NewMain {
 //        System.out.println(p1.toString()+" "+p1.getCosto());
 
         System.out.println(System.getProperty("user.dir")+"\\archivo.xlsx");
+        
+        System.out.println("Linea de prueba");
     }
     
 }
